@@ -1,0 +1,56 @@
+.example-input .ant-input {
+    width: 20px;
+    height:10px;
+}
+.areaInput{
+    width:80%;
+    height:80%;
+}
+.enquiry{
+    display:flex;
+
+}
+.addButton{
+    clolor:#1890ff;
+    float:right;
+    margin-right:20px ;
+}
+.saveButton{
+    clolor:#1890ff;
+    float:right;
+    margin-right:20px ;
+}
+.space{
+    top:10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.box{
+    display:flex;
+}
+.space1{
+    display:flex;
+    margin-left:20px;
+}
+.list{
+    margin-left: 20px;
+    width:90%;
+}
+.grey{
+    background: lightgrey ;
+}
+.editable-row{
+    background:white;
+}
+.select{
+    margin-right:20px;
+}
+.len{
+    display:flex;
+}
+.inlist{
+    background:white;
+    margin-top:100px;
+    margin-left: 20px;
+    width:90%;
+}

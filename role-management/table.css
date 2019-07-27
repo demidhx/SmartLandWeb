@@ -1,0 +1,46 @@
+.textarea{
+    float:left;
+    margin-left:40px;
+    width:400px;
+}
+.role-input{
+    display:flex;
+    margin-left:20px;
+
+}
+.role-button{
+    float:right;
+    display:flex;
+}
+.input{
+    margin-left:40px;
+    width:200px;
+}
+.button1{
+    float:right;
+    margin-right: 20px;
+}
+.button2{
+    float:right;
+    margin-right: 20px;
+}
+.button3{
+    float:right;
+    margin-right: 20px;
+}
+.addbox{
+    background:white;
+    margin-top:20px;
+    width:90%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.rolelist{
+    background:white;
+    margin-top:50px;
+    margin-left: 20px;
+    width:90%;
+}
+.ant-table-header{
+    background: #e9e9e9;
+}
